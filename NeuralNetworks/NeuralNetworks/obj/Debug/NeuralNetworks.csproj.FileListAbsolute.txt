@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.dll
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.pdb
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\NeuralNetworks\NeuralNetworks\bin\Debug\Genetics.dll
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\NeuralNetworks\NeuralNetworks\bin\Debug\Matricies.dll
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\NeuralNetworks\NeuralNetworks\bin\Debug\Genetics.pdb
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\NeuralNetworks\NeuralNetworks\bin\Debug\Matricies.pdb
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralNetworks.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralNetworks.dll
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralNetworks.pdb
