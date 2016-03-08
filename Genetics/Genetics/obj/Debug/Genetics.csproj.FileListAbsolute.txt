@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\Genetics\Genetics\bin\Debug\Genetics.dll
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\Genetics\Genetics\bin\Debug\Genetics.pdb
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\Genetics\Genetics\obj\Debug\Genetics.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\Genetics\Genetics\obj\Debug\Genetics.dll
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\Genetics\Genetics\obj\Debug\Genetics.pdb
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\Genetics\Genetics\bin\Debug\Genetics.dll
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\Genetics\Genetics\bin\Debug\Genetics.pdb
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\Genetics\Genetics\obj\Debug\Genetics.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\Genetics\Genetics\obj\Debug\Genetics.dll
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\Libraries\New\Genetics\Genetics\obj\Debug\Genetics.pdb
